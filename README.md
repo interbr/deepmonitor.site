@@ -6,6 +6,6 @@ Find this as what I have. If you like to work on this with me, I opened a curren
 
 ![deepmonitor_2022 animated-gif](https://t-cup.space/deepmonitor.site.gif)
 
-![screenshow_devtool_3d](screenshow_devtool_3d.jpg)
+![screenshow_devtool_3d](https://deepmonitor.site/screenshow_devtool_3d.jpg)
 
 Felix (Zettel) (interbr)
